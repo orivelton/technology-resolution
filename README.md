@@ -1,1 +1,1 @@
-# technology-resolution
+# Technology resolution 2023
