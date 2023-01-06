@@ -9,3 +9,4 @@ I also want to learn more about cybersecurity and IT to better protect myself an
 - [React Server Components](https://nextjs.org/docs/advanced-features/react-18/server-components)
 - [ChatGPT](https://chat.openai.com/chat)
 - [React Query](https://react-query-v3.tanstack.com/)
+- [zod](https://zod.dev/)
